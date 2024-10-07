@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hiiii there 👋
+
+- - 🌱 Currently studying BS in Data Science and Programming in Indian Institute of Technology,Madras.
+- - 🔭 Currently working as App Development TA in Indian Institute of Technology,Madras. 
+- - 📫 How to reach me:
+  - email: urjaswibanerjee@gmail.com
+  - git: https://github.com/Frosty-Winter-Snowfall
+- - ⚡ Fun fact: The first computer programmer was a woman.Her name was Ada Lovelace.
+ 
+
 
 <!--
 **Frosty-Winter-Snowfall/Frosty-Winter-Snowfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
