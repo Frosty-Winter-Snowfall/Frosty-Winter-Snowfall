@@ -18,9 +18,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
   </a> &nbsp;
 
-  <a href="https://jinja.palletsprojects.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jinja_Logo.svg" alt="Jinja" width="40" height="40"/>
-  </a> &nbsp;
+<a href="https://jinja.palletsprojects.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jinja_Logo.svg" alt="Jinja" width="40" height="40"/>
+</a> &nbsp;
+
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
