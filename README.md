@@ -13,32 +13,39 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
   </a> &nbsp;
+
   <a href="https://jinja.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja-original.svg" alt="Jinja" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jinja_Logo.svg" alt="Jinja" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> &nbsp;
+  
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a> 
 </p>
-
 
 <!--
 **Frosty-Winter-Snowfall/Frosty-Winter-Snowfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
