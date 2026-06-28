@@ -103,12 +103,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a> &nbsp;
 
-  <a href="https://typeorm.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original.svg" alt="TypeORM" width="40" height="40"/>
-  </a> &nbsp;
-
- <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white" alt="TypeORM" height="30"/>
-&nbsp;
+<a href="https://typeorm.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typeorm.svg" alt="TypeORM" width="40" height="40"/>
+</a> &nbsp;
 
   <a href="https://www.sqlalchemy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
