@@ -103,6 +103,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a> &nbsp;
 
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original.svg" alt="TypeORM" width="40" height="40"/>
+  </a> &nbsp;
+
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
+  </a> &nbsp;
+
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> &nbsp;
