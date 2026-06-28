@@ -68,7 +68,7 @@
   </a> &nbsp;
 
   <a href="https://docs.celeryq.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="Celery" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="Celery" width="40" height="40"/>
   </a> &nbsp;
   
   <a href="https://fastapi.tiangolo.com/" target="_blank">
